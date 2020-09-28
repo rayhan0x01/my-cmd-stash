@@ -227,10 +227,6 @@ gobuster dir -u http://10.10.10.55:8080 -a 'Mozilla/5.0 (Windows NT 6.1; Win64; 
 7z l filename.vhd
 ```
 
-## extract a single file from .vhd using 7z
-```
-
-```
 
 ## do a local port scan using SSRF
 ```bash
